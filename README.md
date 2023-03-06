@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asozkdfj)](https://solved.ac/asozkdfj)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asozkdfj&layout=&theme=dark)
+
 ![asozkdfj's GitHub stats](https://github-readme-stats.vercel.app/api?username=asozkdfj&show_icons=true&theme=radical)
