@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/C-A100FF?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-FF9E0F?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0099E5?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Verilog-9999FF?style=flat-square&logo=Verilog&logoColor=white"/> 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asozkdfj)](https://solved.ac/asozkdfj)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asozkdfj&show_icons=true&theme=radical)
-
+![asozkdfj's GitHub stats](https://github-readme-stats.vercel.app/api?username=asozkdfj&show_icons=true&theme=radical)
