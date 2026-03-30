@@ -1,6 +1,5 @@
 ### 🌟Hi there, I'm SeungJoon.
 - I majored in Computer Information Engineering at Kwangwoon University.  
-- 🔭 I’m currently looking for a job.  
 - 🌱 I’m currently studying algorthim.  
 - 📫 How to reach me: tfy203@gmail.com  
 
